@@ -23,7 +23,7 @@
             android:background="@color/white"
             app:layout_scrollFlags="scroll|enterAlways"
             app:popupTheme="@android:style/ThemeOverlay.Material.Light"
-            app:title="News App"
+            app:title="News"
             app:titleTextColor="@color/black" />
 
         <com.google.android.material.tabs.TabLayout
@@ -31,7 +31,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:elevation="0dp"
-            app:tabIndicatorColor="@color/orange"
+            app:tabIndicatorColor="@color/main_color"
             app:tabSelectedTextColor="@color/black" />
     </com.google.android.material.appbar.AppBarLayout>
 
